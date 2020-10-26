@@ -1,0 +1,12 @@
+body {
+    font: $secondary-font;
+    font-size: $secondary-fontSize;
+
+    background-color: $main-bg-color;
+    margin: 0;
+    border: 0;
+}
+
+.hidden {
+	display: none;
+}
